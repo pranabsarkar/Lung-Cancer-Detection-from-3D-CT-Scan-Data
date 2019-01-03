@@ -7,3 +7,10 @@ https://drive.google.com/drive/folders/1lR6FWRZgQiMuzj2XTKmrJb-eqc53EJXG?usp=sha
 
 Original Data: https://drive.google.com/open?id=1KouuDKkbeSBCHCdObiB0CV_hlDi1OzMw
 
+There are two ipynb files:
+1)Lung Cancer_CT Scan Data( Data Manipulation and Inf).ipynb
+2)model.ipynb
+
+The first files contains the data manipulation and inference, the second file contains the model which is trained in Google Colab.
+
+
