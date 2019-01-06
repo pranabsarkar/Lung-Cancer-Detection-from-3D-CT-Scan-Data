@@ -14,3 +14,4 @@ There are two ipynb files:
 The first files contains the data manipulation and inference, the second file contains the model which is trained in Google Colab.
 
 
+THE DETAILED DOCUMENTATION IS COMMING!
